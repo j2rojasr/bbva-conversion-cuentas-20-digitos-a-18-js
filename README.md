@@ -2,7 +2,7 @@
 
 [![](https://www.bbvacontinental.pe/fbin/mult/logo-bbva-continental.png)](https://www.bbvacontinental.pe/)
 
-Función VBA de Macros de archivo de conversión de BBVA a Javascript (JS), cuando la cuenta bancaria no tenga su DC (Dígitos de Control).
+Función VBA de Macros de archivo de conversión de BBVA a Javascript (JS), cuando la cuenta bancaria no tiene DC (Dígitos de Control).
 
 ### Items
 
